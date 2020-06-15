@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\OneDrive - Swinburne University\\Github\\ParadigmJump\\ParadigmJump\\ParadigmJump.csproj": {}
+  },
+  "projects": {
+    "I:\\OneDrive - Swinburne University\\Github\\ParadigmJump\\ParadigmJump\\ParadigmJump.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\OneDrive - Swinburne University\\Github\\ParadigmJump\\ParadigmJump\\ParadigmJump.csproj",
+        "projectName": "ParadigmJump",
+        "projectPath": "I:\\OneDrive - Swinburne University\\Github\\ParadigmJump\\ParadigmJump\\ParadigmJump.csproj",
+        "packagesPath": "C:\\Users\\Justin Lee\\.nuget\\packages\\",
+        "outputPath": "I:\\OneDrive - Swinburne University\\Github\\ParadigmJump\\ParadigmJump\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Justin Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0-preview.4.20251.6, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0-preview.4.20251.6, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[5.0.0-preview.4.20251.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
