@@ -26,3 +26,4 @@ I:\OneDrive - Swinburne University\Github\ParadigmJump\ParadigmJump\obj\Debug\ne
 I:\OneDrive - Swinburne University\Github\ParadigmJump\ParadigmJump\obj\Debug\netcoreapp2.0\win10-x64\ParadigmJump.dll
 I:\OneDrive - Swinburne University\Github\ParadigmJump\ParadigmJump\obj\Debug\netcoreapp2.0\win10-x64\ParadigmJump.pdb
 I:\OneDrive - Swinburne University\Github\ParadigmJump\ParadigmJump\obj\Debug\netcoreapp2.0\win10-x64\ParadigmJump.genruntimeconfig.cache
+I:\OneDrive - Swinburne University\Github\ParadigmJump\ParadigmJump\bin\Debug\netcoreapp2.0\win10-x64\Resources\SplashKit.cs
