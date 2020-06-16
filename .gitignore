@@ -4,6 +4,8 @@ ehthumbs.db
 ehthumbs_vista.db
 
 # Folders
+bin
+obj
 .vs
 .vscode
 
